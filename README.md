@@ -2,6 +2,6 @@
 
 ###Simple tool for converting odt files to pdf
 
-´pip install -r requirements.txt´
+`pip install -r requirements.txt`
 
-´python converter.py -i <input folder> -o <output folder>´
+`python converter.py -i <input folder> -o <output folder>` 
