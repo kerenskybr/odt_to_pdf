@@ -1,6 +1,6 @@
 ### odt_to_pdf
 
-###Simple tool for converting odt files to pdf
+### Simple tool for converting odt files to pdf
 
 `pip install -r requirements.txt`
 
